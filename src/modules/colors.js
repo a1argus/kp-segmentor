@@ -24,7 +24,7 @@ let colorScale = d3.scaleLinear()
 
 let colorScaleRedSolo = d3.scaleQuantize()
 .domain([1, 10])
-.range(colorbrewer.Reds[9])
+.range([...colorbrewer.Reds[9], '#45000d'])
 
 export function colorCompare(item) {
 	let delta = (
