@@ -1,0 +1,5 @@
+.drop-files__drop-button {
+    border: 1px dashed gray;
+    display: inline-block;
+    padding: 5px;
+}

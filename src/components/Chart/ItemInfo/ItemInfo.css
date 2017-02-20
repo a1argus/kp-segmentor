@@ -1,0 +1,9 @@
+.item-info {
+  padding: 10px;
+}
+.item-info .item-info__description {
+  color: #999;
+}
+.item-info .item-info__value {
+  font-weight: bold;
+}

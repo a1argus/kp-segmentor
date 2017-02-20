@@ -1,0 +1,4 @@
+<Files a1argus.xls>
+Header set Access-Control-Allow-Origin "*"
+ForceType 'text/html; charset=windows-1251'
+</Files>
