@@ -1,0 +1,3 @@
+export const
+	ORIENTATION_VERTICAL = true,
+	ORIENTATION_HORIZONTAL = false
